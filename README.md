@@ -1,5 +1,22 @@
 #  Full Stack Developer
 ## Hi, I am Oscar Yang 👋
+Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 6+ years of professional experience in dynamic and deadline-driven work environments. 
+I am always trying harder to find new and more effective ways to solve problems.
+I love working through all the stages of development and I place a lot of importance on DRY(Don't Repeat Yourself), well-documented, and easy to-maintain and scalable code. 
+Communication with the client is a crucial part of web development and I make it a priority to be responsive as well as report regularly on the development process.
+
+❤ My Highlight Skills
+✔ Languages
+JavaScript, TypeScript, Node.js, Python, C++, GraphQL
+✔ Frontend Development
+React.js, Vue.js, Redux, React-Query, jQuery, Ant-Design, Material-UI, Bootstrap, Responsive Web Development, Progressive Web Application
+✔ Backend Development
+Node.js, Python, Django, GraphQL(Apollo), Laravel
+✔ Databases
+MongoDB, MySQL, PostgreSQL, Firebase
+✔ AWS Cognito, S3 Bucket, Lamda, SSM, ECS, EC2
+✔ Jira Pipelines, Bitbucket, GitHub
+✔ Google Maps API
 
 ### 💻Tech Stack
 <p align="center">
