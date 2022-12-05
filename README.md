@@ -112,20 +112,3 @@ MongoDB, MySQL, PostgreSQL, Firebase
 </p>
 
 <br />
-
-> GitHub Activity Graph
-<!-- https://github.com/angelsoft-oscar/github-readme-activity-graph -->
-<a href="https://github.com/angelsoft-oscar/angelsoft-oscar"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=angelsoft-oscar&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
-
-<br />
-
-<p align="right">
-  <a href="https://github.com/angelsoft-oscar?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/angelsoft-oscar"/></a>
-  <a href="https://github.com/angelsoft-oscar?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/angelsoft-oscar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/angelsoft-oscar">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=angelsoft-oscar&style=for-the-badge"/></a>
-</p>
-
-<br />
