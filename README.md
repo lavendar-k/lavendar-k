@@ -30,7 +30,7 @@ MongoDB, MySQL, PostgreSQL, Firebase
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=angelsoft-oscar&column=8)](https://github-profile-trophy.vercel.app/?username=angelsoft-oscar&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=oscaryang-angelsoft&column=8)](https://github-profile-trophy.vercel.app/?username=angelsoft-oscar&column=8)
 
  <br>
 
