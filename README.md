@@ -24,7 +24,7 @@ MongoDB, MySQL, PostgreSQL, Firebase
 [![trophy](https://github-profile-trophy.vercel.app/?username=oscaryang-k&column=8)](https://github-profile-trophy.vercel.app/?username=angelsoft-oscar&column=8)
 
 ## Github Status
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=oscaryang-k&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="47%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oscaryang-k&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="39.25%">
-</p>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=oscaryang-k&count_private=true" width="50.25%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscaryang-k&layout=compact" width="42%"/>
+</div>
