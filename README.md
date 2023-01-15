@@ -1,5 +1,5 @@
-# Passionate Full Stack Developer
-## Hi, I am Oscar Yang 👋
+# Oscar Yang 
+## Hi, I am a Passionate Full Stack Web Developer 👋
 <p>
 Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 6+ years of professional experience in dynamic and deadline-driven work environments. 
 I am always trying harder to find new and more effective ways to solve problems.
