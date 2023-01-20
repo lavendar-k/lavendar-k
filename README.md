@@ -25,6 +25,6 @@ MongoDB, MySQL, PostgreSQL, Firebase
 
 ## Github Status
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=oscaryang-k&count_private=true" width="50.25%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscaryang-k&layout=compact" width="42%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=oscaryang-k&count_private=true" width="50.25%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oscaryang-k&layout=compact" width="42%"/>
 </div>
