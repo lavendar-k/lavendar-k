@@ -1,4 +1,4 @@
-# Oscar Yang 
+# Lavendar Solution
 ## Full Stack Web & Blockchain Engineer 👋
 <p>
 Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 6+ years of professional experience in dynamic and deadline-driven work environments. 
@@ -21,10 +21,10 @@ MongoDB, MySQL, PostgreSQL, Firebase
 #### ✔ Google Maps API
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=oscaryang-k&column=8)](https://github-profile-trophy.vercel.app/?username=angelsoft-oscar&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=oscaryang-k&column=8)](https://github-profile-trophy.vercel.app/?username=lavendarsolution&column=8)
 
 ## Github Status
 <div>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=oscaryang-k&count_private=true" width="50.25%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oscaryang-k&layout=compact" width="42%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lavendarsolution&count_private=true" width="50.25%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lavendarsolution&layout=compact" width="42%"/>
 </div>
