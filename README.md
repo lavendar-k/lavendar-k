@@ -20,9 +20,6 @@ MongoDB, MySQL, PostgreSQL, Firebase
 #### ✔ Jira Pipelines, Bitbucket, GitHub
 #### ✔ Google Maps API
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=oscaryang-k&column=8)](https://github-profile-trophy.vercel.app/?username=lavendarsolution&column=8)
-
 ## Github Status
 <div>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lavendarsolution&count_private=true" width="50.25%"/>
