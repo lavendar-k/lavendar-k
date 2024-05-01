@@ -1,4 +1,4 @@
-![1712768610176](https://github.com/lavendarsolution/lavendarsolution/assets/117616805/9901ab30-3c3e-425f-bfaf-396dab2fc327)
+![1712768610176](https://github.com/lavendar-k/lavendarsolution/assets/117616805/9901ab30-3c3e-425f-bfaf-396dab2fc327)
 
 # Lavendar Solution
 ## Full Stack Web & Blockchain Engineer 👋
@@ -24,6 +24,6 @@ MongoDB, MySQL, PostgreSQL, Firebase
 
 ## Github Status
 <div>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lavendarsolution&count_private=true" width="50.25%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lavendarsolution&layout=compact" width="42%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lavendar-k&count_private=true" width="50.25%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lavendar-k&layout=compact" width="42%"/>
 </div>
