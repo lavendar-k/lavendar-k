@@ -27,3 +27,11 @@ MongoDB, MySQL, PostgreSQL, Firebase
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lavendar-k&count_private=true" width="50.25%"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lavendar-k&layout=compact" width="42%"/>
 </div>
+
+## My Highlight Projects
+### Internal CRM Web Application for Business Management
+https://telos.measurablegenius.com
+
+### Blockchain Projects
+https://gatenet.io/
+https://gymnetwork.io/
