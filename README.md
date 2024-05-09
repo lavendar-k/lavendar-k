@@ -29,9 +29,11 @@ MongoDB, MySQL, PostgreSQL, Firebase
 </div>
 
 ## My Highlight Projects
-### Internal CRM Web Application for Business Management
-https://telos.measurablegenius.com
+### Web Projects
+- Internal CRM Web Application for Business Management https://telos.measurablegenius.com
 
 ### Blockchain Projects
+- GateNet
 https://gatenet.io/
+- GymNetwork
 https://gymnetwork.io/
