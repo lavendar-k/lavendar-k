@@ -32,6 +32,8 @@ MongoDB, MySQL, PostgreSQL, Firebase
 ### Web Projects
 - POS System
 https://posedenhotel.caliburgerlb.com/
+- Caliburger Sale System
+https://caliburgerlb.com
 
 ### Blockchain Projects
 - GateNet
