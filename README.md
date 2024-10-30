@@ -30,6 +30,8 @@ MongoDB, MySQL, PostgreSQL, Firebase
 
 ## My Highlight Projects
 ### Web Projects
+- POS System
+https://posedenhotel.caliburgerlb.com/
 
 ### Blockchain Projects
 - GateNet
