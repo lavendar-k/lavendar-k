@@ -14,8 +14,6 @@
 
 </div>
 
-<br/>
-
 ## 👋 Hi, I'm a Senior Full Stack Engineer
 
 **Do you have a SaaS idea but no clear path from prototype to paying customers?**
@@ -26,11 +24,8 @@ That is exactly what I fix.
 
 I am a Senior Full Stack Engineer with **10+ years** of shipping production SaaS, CRM, delivery, and AI-integrated products. Multiple of my builds are live and generating revenue today. I know which day-one decisions save 6 months of rework, and which corners are safe to cut for an MVP versus which ones will burn you the moment you onboard your 10th customer.
 
-<br/>
-
 ## 🛠 What I Build
-
-> Production systems that survive real customers, not demos that crumble under load.
+### Production systems that survive real customers, not demos that crumble under load.
 
 - 🏢 &nbsp; **Multi-Tenant SaaS Platforms** &nbsp;|&nbsp; Org-level isolation, RBAC, audit logs, and RLS hardened from day 1
 - 🤖 &nbsp; **AI-Integrated Products** &nbsp;|&nbsp; LLM features, RAG pipelines, document processing, agent workflows with guardrails
@@ -40,10 +35,7 @@ I am a Senior Full Stack Engineer with **10+ years** of shipping production SaaS
 - 🔌 &nbsp; **API Integration Hubs** &nbsp;|&nbsp; Webhook-driven automation between Stripe, HubSpot, Shopify, Slack, Twilio, and beyond
 - 🔧 &nbsp; **AI MVP Rescue and Production Hardening** &nbsp;|&nbsp; Refactor, secure, and stabilize broken Lovable / Bolt / v0 / Cursor builds
 
-<br/>
-
 ## 💻 My Production Stack
-
 ### Backend
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -64,7 +56,6 @@ I am a Senior Full Stack Engineer with **10+ years** of shipping production SaaS
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Database & ORM
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -73,7 +64,6 @@ I am a Senior Full Stack Engineer with **10+ years** of shipping production SaaS
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### APIs & Integrations
-
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
@@ -82,7 +72,6 @@ I am a Senior Full Stack Engineer with **10+ years** of shipping production SaaS
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ### Cloud & DevOps
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -90,11 +79,8 @@ I am a Senior Full Stack Engineer with **10+ years** of shipping production SaaS
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Mobile
-
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-<br/>
 
 ## 🎯 What I Deliver for Clients
 
@@ -107,10 +93,7 @@ I am a Senior Full Stack Engineer with **10+ years** of shipping production SaaS
 | 🧭 &nbsp; **Right-Sized Stack** | Picked for your business, not for my resume |
 | 🛡️ &nbsp; **Production-Grade From Day 1** | Auth, RBAC, audit logs, tenant boundaries, all baked in |
 
-<br/>
-
 ## ⚡ I Also Rescue Broken AI-Generated MVPs
-
 A growing share of my 2026 work is fixing products built on Lovable, Bolt, v0, Cursor, and raw LLM output. Typical findings when I take over:
 
 | Common Issue | What It Costs You |
@@ -123,8 +106,6 @@ A growing share of my 2026 work is fixing products built on Lovable, Bolt, v0, C
 | 🔴 &nbsp; Hidden security holes the founder cannot see | Breach risk, investor red flag, churn |
 
 I rebuild these into products that can onboard real customers without leaking data or burning support hours.
-
-<br/>
 
 ## 📊 GitHub Stats
 
