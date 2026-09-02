@@ -117,16 +117,6 @@ I rebuild these into products that can onboard real customers without leaking da
 
 <br/>
 
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lavendar-k&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff&area=true&area_color=6366F1" width="95%"/>
-
-</div>
-
-<br/>
-
 ## 📩 Let's Talk
 
 **If you have an idea, an MVP that is breaking, or a v1 that needs to become a real product, let's talk.**
