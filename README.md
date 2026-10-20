@@ -8,7 +8,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lavendar-k&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/lavendar-k?label=Follow&style=for-the-badge&color=6366F1)](https://github.com/lavendar-k)
 ![Years of Experience](https://img.shields.io/badge/Experience-10%2B%20Years-6366F1?style=for-the-badge)
 
